@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vanshika Chaprana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" wigth="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s](https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966)">
+<img align="right" alt="Coding" wigth="400" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikachaprana&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikachaprana" /> </p>
 
