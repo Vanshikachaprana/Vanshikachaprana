@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vanshika Chaprana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" wigth="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
+<img align="right" alt="Coding" wigth="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikachaprana&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikachaprana" /> </p>
 
